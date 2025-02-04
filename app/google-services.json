@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640130284836",
+    "project_id": "chat-app-cc407",
+    "storage_bucket": "chat-app-cc407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640130284836:android:a28fe85e8236f82b2487b1",
+        "android_client_info": {
+          "package_name": "com.example.lets_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXKKa20200PMLzfOQMxo5AW-SPV1b4m1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
